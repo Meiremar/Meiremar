@@ -5,4 +5,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meiremar)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meiremar)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
